@@ -1,16 +1,7 @@
 # animated_floating_button
 
-A new Flutter project.
+A Flutter project for an animated floating action button.
 
-## Getting Started
+<img src="https://github.com/jaishiva/animated_floating_button/blob/master/output_images/Screen%20Recording%202020-09-22%20at%2010.22.26%20AM.mov" width="300" height="800">    
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="https://github.com/jaishiva/animated_floating_button/blob/master/output_images/Simulator%20Screen%20Shot%20-%20iPhone%2011%20-%202020-09-22%20at%2010.22.17.png" width="300" height="800">                              <img src="https://github.com/jaishiva/animated_floating_button/blob/master/output_images/Simulator%20Screen%20Shot%20-%20iPhone%2011%20-%202020-09-22%20at%2010.22.20.png" width="300" height="800"> 
